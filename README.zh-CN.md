@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"></a>
+  <a href="https://tosea.ai/slide-skills"><img alt="Live on Tosea.ai" src="https://img.shields.io/badge/Live%20on-Tosea.ai-000000?style=flat&logo=safari&logoColor=white"></a>
   <a href="https://tosea.ai"><img alt="Made by Tosea.ai" src="https://img.shields.io/badge/Made%20by-Tosea.ai-000000?style=flat"></a>
   <a href="https://github.com/ToseaAI/awesome-html-slide-skills/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ToseaAI/awesome-html-slide-skills?style=flat&color=yellow"></a>
   <a href="https://github.com/ToseaAI/awesome-html-slide-skills/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ToseaAI/awesome-html-slide-skills?style=flat&color=blue"></a>
@@ -15,6 +16,8 @@
 一份精心整理的开源清单，收录 **HTML 演示文稿生成 Skill**——可被 AI 编程 Agent（Claude Code / Codex / Hermes / OpenClaw / Cursor）加载的打包技能，以及配套的 HTML 模板库。一句话、一份大纲、一篇 Markdown，即可生成零依赖、单文件 HTML 演示文稿。
 
 本仓库收录的全部是真实可访问的 GitHub 仓库。星标数通过 GitHub API 实时获取，并作为排序的唯一依据。简介、亮点与预览图来自项目自身 README，版权归原作者所有。
+
+> **在线浏览 → [tosea.ai/slide-skills](https://tosea.ai/slide-skills)。** 同一份精选，渲染成更易扫读的网页画廊，附带实时 GitHub 统计。README 是 source of truth，网页镜像它。
 
 > **由 [Tosea.ai](https://tosea.ai) 维护** —— 我们专注于 AI 原生的演示文稿工具链。如果你开源了一个 HTML Slide Skill 或模板库，欢迎 [提交 PR](CONTRIBUTING.md)。
 
@@ -546,5 +549,5 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 ---
 
 <p align="center">
-  由 <a href="https://tosea.ai"><b>Tosea.ai</b></a> 维护 · <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts">同系列：awesome-gpt-image-2-prompts</a>
+  由 <a href="https://tosea.ai"><b>Tosea.ai</b></a> 维护 · <a href="https://tosea.ai/slide-skills">在网页上浏览</a> · <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts">同系列：awesome-gpt-image-2-prompts</a>
 </p>

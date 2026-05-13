@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"></a>
+  <a href="https://tosea.ai/slide-skills"><img alt="Live on Tosea.ai" src="https://img.shields.io/badge/Live%20on-Tosea.ai-000000?style=flat&logo=safari&logoColor=white"></a>
   <a href="https://tosea.ai"><img alt="Made by Tosea.ai" src="https://img.shields.io/badge/Made%20by-Tosea.ai-000000?style=flat"></a>
   <a href="https://github.com/ToseaAI/awesome-html-slide-skills/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ToseaAI/awesome-html-slide-skills?style=flat&color=yellow"></a>
   <a href="https://github.com/ToseaAI/awesome-html-slide-skills/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ToseaAI/awesome-html-slide-skills?style=flat&color=blue"></a>
@@ -15,6 +16,8 @@
 A curated, open-source list of **HTML slide generation skills** — packaged agent skills (Claude Code / Codex / Hermes / OpenClaw / Cursor) and template libraries that turn one prompt, outline, or markdown file into a polished, zero-dependency, single-file HTML presentation.
 
 Every entry below is a real, publicly available GitHub repository. Stars are pulled fresh from the GitHub API and used as the sole ordering signal. Descriptions, feature highlights, and inline previews are drawn from each project's own README — credit to the original authors.
+
+> **Browse it on the web → [tosea.ai/slide-skills](https://tosea.ai/slide-skills).** Same curation, rendered as a faster-to-scan gallery with live GitHub stats. This README is the source of truth; the web page mirrors it.
 
 > **Maintained by [Tosea.ai](https://tosea.ai)** — we build AI-native presentation tooling. If you ship an HTML slide skill or template library, [open a PR](CONTRIBUTING.md) and we'll add it.
 
@@ -540,5 +543,5 @@ Inline preview images are hot-linked from each project's own GitHub repository (
 ---
 
 <p align="center">
-  Maintained by <a href="https://tosea.ai"><b>Tosea.ai</b></a> · <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts">Also see: awesome-gpt-image-2-prompts</a>
+  Maintained by <a href="https://tosea.ai"><b>Tosea.ai</b></a> · <a href="https://tosea.ai/slide-skills">Browse on the web</a> · <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts">Also see: awesome-gpt-image-2-prompts</a>
 </p>
