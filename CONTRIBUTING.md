@@ -28,7 +28,17 @@ A new entry must be:
    - **Tier A** — 100 to 999 stars.
    - **Tier B** — under 100 stars.
 4. Within a tier, entries are ordered by stars descending. Insert yours at the correct position.
-5. Open the PR with a one-line description: *"Add `owner/repo` (XX stars) to Tier A."* Link to the repo and mention why it's not duplicative of existing entries.
+5. **Add at least one visual.** If the project's own README has a demo GIF / banner / screenshot grid, hot-link the raw asset using this pattern (replace `OWNER`, `REPO`, `BRANCH`, and the asset path):
+
+   ```html
+   <p align="center">
+     <a href="https://github.com/OWNER/REPO"><img src="https://raw.githubusercontent.com/OWNER/REPO/BRANCH/path/to/demo.png" width="720" alt="Short alt text"/></a>
+     <br><sub>One-line caption from the project's README.</sub>
+   </p>
+   ```
+
+   Prefer GIFs that show the deck actually being generated; fall back to static covers if no animation exists. If the project has no demo asset at all, skip the visual rather than fabricating one — but please open a friendly issue on the upstream repo suggesting they add a screenshot.
+6. Open the PR with a one-line description: *"Add `owner/repo` (XX stars) to Tier A."* Link to the repo and mention why it's not duplicative of existing entries.
 
 ## Updating star counts
 
